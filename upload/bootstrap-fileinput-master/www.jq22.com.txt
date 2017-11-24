@@ -1,0 +1,10 @@
+
+   jQuery插件库   
+
+   http://www.jq22.com 
+
+   找的更少，作的更多！ jQuery插件库只为您提供最好的！
+
+   本插件地址：http://www.jq22.com/jquery-info5231
+		
+   原版（英文版）http://plugins.krajee.com/file-input
